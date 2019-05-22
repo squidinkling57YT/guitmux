@@ -30,5 +30,5 @@ clear
 echo -e "$yellow Now you can use GUI using VNC ;)"
 }
 repo
-echo -e "$red Now you can exit but dont forget to subscribe my channel https://youtube.com/hax4us $reset"
+echo -e "$red done, remember to stay in school, stay cool, and smoke crack $reset"
 echo
